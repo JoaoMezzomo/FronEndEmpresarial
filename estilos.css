@@ -1,0 +1,29 @@
+.margemTopo{
+	margin-top: 95px;
+}
+
+.margemBaixo{
+	margin-bottom: 10px;
+}
+
+.sombra{
+	box-shadow: 5px 5px 5px;
+}
+
+.parallaxA{
+	background-image: url("img/fundo4.jpg");
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 500px; 
+}
+
+.parallaxB{
+	background-image: url("img/fundo3.png");
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 340px; 
+}
